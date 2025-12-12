@@ -1,4 +1,4 @@
-Senior Project Proposal (Replace with Project Name)
+Custom Keyboard Development for Refugee Language Accessibility
 ===================================================
 
 **Student Name(s)**: Kory Singleton   
